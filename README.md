@@ -1,0 +1,2 @@
+# esp32s3_ble_gateway_opsolution_releases
+esp32s3_ble_gateway_opsolution_releases are maintained in this channel.
